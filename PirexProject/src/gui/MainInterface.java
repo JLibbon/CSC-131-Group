@@ -13,7 +13,15 @@ import javax.swing.JTextArea;
 import javax.swing.ScrollPaneConstants;
 import javax.swing.JComponent;
 import javax.swing.border.EmptyBorder;
- 
+/**
+ * 
+ * @author Braden Gills
+ * @author Catherine Nguyen (catherinenguyen@csus.edu)
+ * @author Johnathan Nelson Ento 
+ * @author Joseph Libbon 
+ * @author Ramiro Bazan
+ * @version 1.2 03 December 2018
+**/ 
 
 public class MainInterface extends JPanel {
 	
